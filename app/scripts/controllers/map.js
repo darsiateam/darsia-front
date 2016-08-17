@@ -35,8 +35,8 @@ angular.module('darsiaFrontApp')
         {x:4, y:1, door:{
           doorName: "Ice Map Portal", // Door name
           lvlReq: 12, // Level required to use this door
-          titleReq: "Ice Combatant", // Title required to use this door
-          cityReq: 1, // Id of the city required to use this portal
+          titleReq: 39, // Id of the Title required to use this door
+          cityReq: 1, // Id of the City required to use this portal
         }},
         {x:4, y:4},
         {x:5, y:1},
