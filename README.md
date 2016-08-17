@@ -26,7 +26,7 @@ This steps are made for running the project in a nodejs server, using grunt. If 
 
   - **npm install -g grunt-cli bower yo generator-angular generator-karma**
 
-  - **cd aesculapius-front**
+  - **cd darsia-front**
 
   - **npm install** (This will take a while)
 
