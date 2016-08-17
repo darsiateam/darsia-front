@@ -37,6 +37,8 @@ angular.module('darsiaFrontApp')
           lvlReq: 12, // Level required to use this door
           titleReq: 39, // Id of the Title required to use this door
           cityReq: 1, // Id of the City required to use this portal
+          xi: 0,
+          yi: 1,
         }},
         {x:4, y:4},
         {x:5, y:1},
